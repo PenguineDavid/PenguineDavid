@@ -6,4 +6,4 @@
 
 - Fun fact: i got into programming via making a redstone computer in minecraft
 
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
