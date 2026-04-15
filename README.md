@@ -7,5 +7,3 @@
 - Fun fact: i got into programming via making a redstone computer in minecraft
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid)
