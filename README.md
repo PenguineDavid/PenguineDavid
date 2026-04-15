@@ -8,4 +8,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
 
-![Top Languages](https://your-project-name.vercel.app/api/top-langs/?username=PenguineDavid&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid)](https://github.com/anuraghazra/github-readme-stats)
