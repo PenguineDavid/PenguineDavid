@@ -9,10 +9,6 @@
 1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also a LSP).
 2. An application that adds a large amount of ketbinds usefull to geeks.
    
-<!-- Streak – transparent -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=transparent#gh-light-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=transparent#gh-dark-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=default)](https://git.io/streak-stats#gh-light-mode-only)
 
-<!-- Top Langs – transparent -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid)](https://github.com/anuraghazra/github-readme-stats)
