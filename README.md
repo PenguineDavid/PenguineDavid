@@ -12,4 +12,5 @@
 [![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 [![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid&theme=github-light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid&theme=github-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
