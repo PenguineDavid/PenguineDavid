@@ -8,6 +8,11 @@
 - I am currently working on:
 1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also a LSP).
 2. An application that adds a large amount of ketbinds usefull to geeks.
-3. 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&fire_color=58a6ff&stroke_color=00000000&currStreakLabel=58a6ff#gh-dark-mode-only)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+   
+<!-- Streak – transparent -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=transparent#gh-light-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=transparent#gh-dark-mode-only)](https://git.io/streak-stats)
+
+<!-- Top Langs – transparent -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
