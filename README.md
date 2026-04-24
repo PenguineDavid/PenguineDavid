@@ -10,4 +10,5 @@
 2. An application that adds a large amount of ketbinds usefull to geeks.
    
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid)](https://github.com/anuraghazra/github-readme-stats)
