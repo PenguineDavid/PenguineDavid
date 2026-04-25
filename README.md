@@ -2,7 +2,7 @@
 
 - Fun fact: I got into programming via making a redstone computer in Minecraft.
 - I am currently working on:
-1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also a LSP).
+1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also an LSP).
 2. An application that adds a large amount of keybinds usefull to geeks.
 
 <p align="center">
