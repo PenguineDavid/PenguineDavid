@@ -3,7 +3,7 @@
 - Fun fact: I got into programming via making a redstone computer in Minecraft.
 - I am currently working on:
 1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also an LSP).
-2. An application that adds a large amount of keybinds usefull to geeks.
+2. An application that adds a large amount of keybinds usefull to geeks(will probably be releasing 26/04/2026).
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=What+Tools+%26+Languages+I%27ve+Worked+With" alt="Typing SVG" />
