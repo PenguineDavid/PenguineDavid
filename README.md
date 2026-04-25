@@ -5,7 +5,9 @@
 1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also a LSP).
 2. An application that adds a large amount of keybinds usefull to geeks.
 
-## What Tools & Languages I've Worked With
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=What+Tools+%26+Languages+I%27ve+Worked+With" alt="Typing SVG" />
+</p>
 
 <table>
 <tr>
@@ -37,9 +39,7 @@
 <tr>
 <td colspan="2">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=440&lines=Tools+%26+Platforms" alt="Typing SVG" />
-</p>
+### Tools & Platforms
 
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZD0iTTAsMCBIMTEuMzc3IFYxMS4zNzIgSDBaIE0xMi42MjMsMCBIMjQgVjExLjM3MiBIMTIuNjIzIFogTTAsMTIuNjIzIEgxMS4zNzcgVjI0IEgwIFogTTEyLjYyMywxMi42MjMgSDI0IFYyNCBIMTIuNjIzIFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
