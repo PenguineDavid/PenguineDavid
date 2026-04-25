@@ -71,6 +71,4 @@
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/PenguineDavid/PenguineDavid/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
