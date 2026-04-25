@@ -37,7 +37,9 @@
 <tr>
 <td colspan="2">
 
-### Tools & Platforms
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=440&lines=Tools+%26+Platforms" alt="Typing SVG" />
+</p>
 
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZD0iTTAsMCBIMTEuMzc3IFYxMS4zNzIgSDBaIE0xMi42MjMsMCBIMjQgVjExLjM3MiBIMTIuNjIzIFogTTAsMTIuNjIzIEgxMS4zNzcgVjI0IEgwIFogTTEyLjYyMywxMi42MjMgSDI0IFYyNCBIMTIuNjIzIFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -55,7 +57,9 @@
 </tr>
 </table>
 
-## GitHub stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=440&lines=github-stats"/>
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
 
