@@ -1,6 +1,6 @@
 ### Hi! My Name is David. I am a Full-Stack Developer. I program webpages in Html, CSS, JS and PHP. I program apps in C++, C, Python and Java. But because of how I started programming I also have knowledge of circuits, assembly, machine code and computer architecture (thats why some of my webpages & apps are CPU design or circuit design oriented).
 
-- Fun fact: I got into programming via making a redstone computer in Minecraft.
+- Fun fact: I got into programming via making a redstone CPU in Minecraft.
 - I am currently working on:
 1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also an LSP).
 3. Learning go and lua.
