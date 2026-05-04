@@ -4,6 +4,7 @@
 - I am currently working on:
 1. A large update to the Kith language aiming to add embeded asm and a lot of other stuff(also an LSP).
 3. Learning go and lua.
+4. A mathematical proof website.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=What+Tools+%26+Languages+I%27ve+Worked+With" alt="Typing SVG" />
