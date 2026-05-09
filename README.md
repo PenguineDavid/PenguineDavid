@@ -65,10 +65,17 @@ with an embedded ASM backend and an LSP -- written in C++.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=440&lines=github-stats"/>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=default"/>
+  <img alt="Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid&theme=default"/>
+</picture>
 
-
-![GitHub TopLangs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguineDavid&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguineDavid&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguineDavid&theme=default"/>
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguineDavid&theme=default"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenguineDavid/PenguineDavid/output/github-snake-dark.svg" />
