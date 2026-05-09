@@ -1,4 +1,8 @@
-### Hi! My Name is David. I am a Full-Stack Developer. I program webpages in Html, CSS, JS and PHP. I program apps in C++, C, Python and Java. But because of how I started programming I also have knowledge of circuits, assembly, machine code and computer architecture (that's why some of my webpages & apps are CPU design or circuit design oriented).
+### Hi, I'm David -- systems and tooling developer based in Australia.
+
+I build compilers, terminal tools, and low-level Windows/Linux utilities.
+Currently developing **Kith**, a statically-typed, event-driven language
+with an embedded ASM backend and an LSP -- written in C++.
 
 - Fun fact: I got into programming via making a redstone CPU in Minecraft.
 - I am currently working on:
@@ -63,7 +67,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguineDavid)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub TopLangs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguineDavid&theme=dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenguineDavid/PenguineDavid/output/github-snake-dark.svg" />
