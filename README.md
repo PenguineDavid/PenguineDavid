@@ -68,7 +68,7 @@ with an embedded ASM backend and an LSP -- written in C++.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PenguineDavid)
 
 
-![GitHub TopLangs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguineDavid&theme=dark)
+![GitHub TopLangs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PenguineDavid&theme=github_dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenguineDavid/PenguineDavid/output/github-snake-dark.svg" />
