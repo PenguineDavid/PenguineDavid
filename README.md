@@ -48,6 +48,7 @@ the syntax before I try making stuff like an LSP.
 
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZD0iTTAsMCBIMTEuMzc3IFYxMS4zNzIgSDBaIE0xMi42MjMsMCBIMjQgVjExLjM3MiBIMTIuNjIzIFogTTAsMTIuNjIzIEgxMS4zNzcgVjI0IEgwIFogTTEyLjYyMywxMi42MjMgSDI0IFYyNCBIMTIuNjIzIFoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
