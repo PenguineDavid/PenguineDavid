@@ -2,7 +2,7 @@
 
 I build compilers, terminal tools, and low-level Windows/Linux utilities.
 Currently developing **Kith**, a statically-typed, event-driven language
-with an embedded ASM backend and an LSP -- written in C++.
+with an embedded ASM backend and an LSP -- written in C++ and an operating system.
 
 - Fun fact: I got into programming via making a redstone CPU in Minecraft.
 
