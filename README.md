@@ -2,7 +2,7 @@
 
 I build compilers, terminal tools, and low-level Windows/Linux utilities.
 Currently developing **Kith**, a statically-typed, event-driven language
-with an embedded ASM backend and an LSP -- written in C++, an operating system programmed entirely in bare metal C my biggest project yet, a RTOS to manual control a Nucleo F446RE via USB with a terminal client on windows / linux kinda like non encrypted shh for a microcontroller, and a mod for computational redstone.
+with an embedded ASM backend and an LSP -- written in C++, an operating system programmed entirely in bare metal C, a RTOS to manual control a Nucleo F446RE via USB with a terminal client on windows / linux a bit like non encrypted ssh for a microcontroller, and a mod for computational Redstone.
 
 - Fun fact: I got into programming via making a redstone CPU in Minecraft.
 
